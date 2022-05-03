@@ -8,7 +8,7 @@
 
 # usage:
 1.手机上运行ida的android_server
-2. ida载入脚本 运行start_debug(package_name,so_name) 所调试的apk名字 so的名字 
+2. ida载入脚本 ,debug选择android remote debugger,运行start_debug(package_name,so_name) 所调试的apk名字 so的名字 
 3. 按照脚本提示 手机上点击一次apk
 即可完整
 
